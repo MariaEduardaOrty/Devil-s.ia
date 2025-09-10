@@ -1,0 +1,16 @@
+const caixaPrincipal=document.querySelector(".caixa-principal");
+const caixaPerguntas=document.querySelector(".caixa-perguntas");
+const caixaAlternativas=document.querySelector(".caixa-alternativas");
+const caixaResultado=document.querySelector(".caixa-resultado");
+const textoResultado=document.querySelector(".texto-resultado");
+const perguntas=[
+    {
+        enunciado:"assim que saiu do colégio você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios. Qual é o seu primeiro pensamento?",
+        alternativas: [
+            {
+                texto:"Isso é assustador,"
+            }
+        ]
+    }
+]
+
