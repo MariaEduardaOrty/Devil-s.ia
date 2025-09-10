@@ -8,7 +8,9 @@ const perguntas=[
         enunciado:"assim que saiu do colégio você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios. Qual é o seu primeiro pensamento?",
         alternativas: [
             {
-                texto:"Isso é assustador,"
+                texto:"Isso é assustador,!"
+                afirmacao:"No início, eu ficaria com medo do que essa tecnologia pode fazer."
+                
             }
         ]
     }
