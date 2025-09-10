@@ -10,6 +10,9 @@ const perguntas=[
             {
                 texto:"Isso é assustador,!"
                 afirmacao:"No início, eu ficaria com medo do que essa tecnologia pode fazer."
+
+            },
+            {
                 
             }
         ]
