@@ -88,5 +88,5 @@ function mostraPergunta(){
     mostraAlternativas();
 }
 function mostraAlternativas(){
-    
+    for(const alternativa of perguntaAtual.alternativas)
 }
